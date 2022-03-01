@@ -1,3 +1,5 @@
 # nextjs-blog
-Next js sample application
+Next js sample application, first attempt
+
+
 ![](/ss.png)
