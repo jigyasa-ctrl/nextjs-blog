@@ -1,3 +1,3 @@
 # nextjs-blog
 Next js sample application
-![ss.png]
+![](/ss.png)
